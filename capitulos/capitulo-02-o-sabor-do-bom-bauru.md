@@ -3,7 +3,7 @@ NOTAS PARA REVISÃO DO AUTOR (apague este bloco ao finalizar)
 - Detalhes sensoriais e de rotina da Dona Valdete (horário em que acorda, a banqueta, o pano de prato no ombro, o portão, o terço, a toalha da mesa, o café na garrafa térmica) são sugestões. Troque pelos reais.
 - A forma como ela chama você ("meu filho", "Wesley") e as expressões dela estão em português afetuoso genérico. Ajuste para o jeito dela falar de verdade.
 - O trecho da pandemia é propositalmente genérico (janela, chamada de vídeo, saudade). Se houver uma lembrança real, ela é o melhor material do capítulo.
-- Os Apêndices (2: Framework do Foco Divino) ainda não foram escritos. Aqui há apenas uma ponte para ele ("Os Três Pratos da Mesa").
+- O Apêndice 2 (Framework do Foco Divino) foi escrito ao final deste arquivo, e o capítulo foi ajustado para ligar com a Quarta (a mãe aparece lá) e com a Sexta (aviso sobre o tom).
 - Versículos citados: Lucas 10:41-42, Provérbios 15:17, Provérbios 31:27-28, Salmo 127:2 (tradução Almeida Revista e Atualizada). Confira com a versão que você usa no livro.
 -->
 
@@ -286,7 +286,7 @@ Reparei que ela **não faz duas coisas ao mesmo tempo que exijam a mesma atenç�
 
 Eu anotei isso no celular, escondido, e depois me senti culpado de ter pegado o celular na casa dela. (A culpa passou. A frase ficou.)
 
-Reparou que o Bauru dela tem **seis ingredientes que aparecem e quatro que acompanham**, e nenhum deles é difícil de achar? Ela não precisa de mercado gourmet, de técnica francesa, de equipamento. A receita da minha mãe tem uma característica que eu passei a admirar: **ela cabe na vida real.**
+Reparou que nenhum ingrediente do Bauru dela é difícil de achar? Ela não precisa de mercado gourmet, de técnica francesa, de equipamento. A receita da minha mãe tem uma característica que eu passei a admirar: **ela cabe na vida real.**
 
 E aqui está o ponto da nossa Quinta-feira: *a vida boa não é a que tem mais ingredientes. É a que tem os ingredientes certos, preparados com a atenção certa, servidos para as pessoas certas.*
 
@@ -427,7 +427,7 @@ E sabe o que aconteceu depois? Nada. **Nada!** A casa não caiu. A louça espero
 
 Eu entendi uma coisa, tarde da vida, mas entendi: **Marta também pode sentar.** Marta pode servir com amor *e* sentar. O Senhor nunca quis que ela largasse o serviço. Ele só queria que ela soubesse a hora de sentar.
 
-Ficamos ali uma hora e meia conversando. Sobre os netos, sobre meu marido, sobre a Mimi Bela e a Bolacha, que ele jura que mandam em você. Sobre as coisas pequenas e sobre as grandes. E durante todo esse tempo, o celular dele ficou no bolso, e eu não senti nem um pouquinho de falta do pano.
+Ficamos ali uma hora e meia conversando. Sobre os netos, sobre meu marido, sobre a Mimi Bela e a Bolacha, que ele jura que mandam na casa dele. Sobre as coisas pequenas e sobre as grandes. E durante todo esse tempo, o celular dele ficou no bolso, e eu não senti nem um pouquinho de falta do pano.
 
 O Salmo diz: *"Inútil vos é levantar de madrugada, repousar tarde, comer o pão que penosamente granjeastes; aos seus amados ele o dá enquanto dormem."* Eu acordei cedo a vida inteira, meu filho. Só agora estou aprendendo a receber o descanso que Ele prepara.
 
@@ -554,11 +554,65 @@ E você, que me lê: **vá visitar quem te espera.** Leve o pão, ou leve só o 
 
 A sexta-feira está chegando. E ela vem com um **Risoto**, daqueles que a gente mexe devagar, mexe com paciência, e descobre que o trabalho também pode ser uma forma de oração.
 
+Um aviso, porém: amanhã o Chef Do vai estar de **boca mais suja.** Sexta-feira tem fome de recompensa, e fome de recompensa não fala bonito. Mãe, se a senhora estiver lendo: pode pular o próximo capítulo. A gente se encontra no Sábado, na macarronada.
+
 Mas isso é assunto para amanhã.
 
 Hoje, ainda é quinta-feira.
 
 **Hoje, ainda dá tempo de sentar.**
+
+---
+
+## Apêndice 2: O Framework do Foco Divino
+
+*(ou: como aplicar "menos, porém melhor" na segunda-feira de manhã)*
+
+O Bauru da Dona Valdete é uma história. O Framework do Foco Divino é o que você leva dela para o dia a dia. Ele junta três fontes que, juntas, funcionam muito bem:
+
+- **A sabedoria do design**: *Weniger, aber besser*, "menos, porém melhor" (Dieter Rams).
+- **A sabedoria da fé**: *"Pouco é necessário"* (Lucas 10:42).
+- **A sabedoria da cozinha**: o que se tem na geladeira hoje é o ingrediente de hoje.
+
+> *"Confia ao Senhor as tuas obras, e os teus desígnios serão estabelecidos."*
+> — Provérbios 16:3
+
+### O Framework em 5 passos (a Receita do Pouco)
+
+**1. Abra a geladeira (liste o que você tem).**
+Escreva tudo que está pedindo a sua atenção: tarefas, convites, preocupações, projetos, pessoas. Sem filtro. É a sua despensa mental. *(Se você já usa o Kanban do Apêndice 1, essa é a coluna "Para Fazer".)*
+
+**2. Fale "não tem rosbife" (nomeie o que falta e solte).**
+O que você queria ter, mas não tem agora? Dinheiro, tempo, o momento perfeito, a versão ideal de você? Escreva isso numa linha e feche a porta da geladeira. Parar de sofrer pelo que falta é o primeiro passo para ver o que há.
+
+**3. Passe pelo Filtro dos Três Pratos.**
+Para cada item da lista, pergunte:
+
+| Pergunta | Prato |
+|---|---|
+| Isso alimenta a minha **saúde** (corpo, mente, espírito)? | Prato 1 |
+| Isso aproxima ou afasta a minha **família**? | Prato 2 |
+| Isso é **desdobramento de quem eu sou**, e não fuga? | Prato 3 |
+
+Se o item responde "sim" a três, sirva. Se responde "não" a algum, deixe na geladeira, sem culpa.
+
+**4. Escolha o prato do dia (um só).**
+Do que sobrou, escolha **uma coisa** para ser a protagonista de hoje. As outras são acompanhamento. Isso é o limite de trabalho em andamento, o *"WIP"* do Kanban, aplicado à vida: **você não é uma cozinha industrial, é uma cozinha de casa.**
+
+**5. Entregue (e sente).**
+Antes de começar, ofereça o dia: *"Senhor, seja o que for que eu fizer hoje, que seja feito como pra Ti."* (Isso a Sexta vai aprofundar.) E, quando acabar o prato do dia, **sente.** Pare. A louça espera. Descanso também faz parte do framework.
+
+### Os Três Alarmes (quando o foco está fugindo)
+
+- **Alarme da Marta:** *"Estou aflita com muitas coisas."* Se você se sente assim, volte ao passo 4.
+- **Alarme do Rosbife:** *"Só começo quando tiver X."* Se você se pegou dizendo isso, volte ao passo 2.
+- **Alarme do Aplauso:** *"Tenho tantas oportunidades que não sei qual escolher."* Volte ao passo 3 e olhe o prato 2: a sua família.
+
+### Ligação com o resto do cardápio
+
+- **Quarta:** você teve a coragem de começar. Aqui, você escolhe *o que* começar.
+- **Sexta:** com o essencial escolhido, você descobre *para quem* cozinha e como celebrar.
+- **Segunda:** o Framework da Ordem vai organizar a despensa que aqui você filtrou.
 
 ---
 
