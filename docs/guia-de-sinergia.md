@@ -130,7 +130,7 @@ Quando o leitor encontra algo de novo e reconhece de antes, o livro "vira um só
 
 ---
 
-## 7. Problemas que ainda estão no manuscrito original (README) e precisam de decisão
+## 7. Problemas que ainda estão no manuscrito original (`manuscrito/rascunho-original.md`) e precisam de decisão
 
 1. **Páginas iniciais:** os campos da ficha catalográfica e do ISBN estão com texto de LaTeX colado ("NúmerodoISBN−Aserobtido"). Precisam de limpeza antes de ir para a gráfica.
 2. **Sumário:** não tem os capítulos numerados e a ordem do ciclo (Quarta primeiro, Terça por último) não está explicada. Sugestão: usar a tabela da Introdução como sumário visual.

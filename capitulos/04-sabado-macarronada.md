@@ -1,6 +1,6 @@
 <!--
 REVISÃO DO CAPÍTULO 4 (Sábado). STATUS: ROTEIRO + ABERTURA + APÊNDICE 4 REVISADO
-O README só trazia o Apêndice 4 e uma linha "(o texto do capítulo permanece o mesmo)". O corpo do capítulo NÃO está no repositório, então não o inventei por inteiro. Entreguei:
+O rascunho original só trazia o Apêndice 4 e uma linha "(o texto do capítulo permanece o mesmo)". O corpo do capítulo NÃO está no repositório, então não o inventei por inteiro. Entreguei:
   - o apêndice revisado e expandido;
   - uma abertura no tom sugerido;
   - um roteiro em blocos [A ESCREVER] para você completar na mesma espinha dos outros capítulos.

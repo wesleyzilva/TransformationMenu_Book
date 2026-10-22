@@ -8,7 +8,9 @@
 **Original language:** Brazilian Portuguese (*Menu da Transformação*)
 **Status:** Work in progress (manuscript in revision)
 
-> This repository holds the manuscript of *Menu da Transformação*. The original draft is in [`README.md`](README.md) (Portuguese). The revised and new chapters live in [`capitulos/`](capitulos/).
+**Languages:** [Português](README.md) · English (this file)
+
+> This repository holds the manuscript of *Menu da Transformação*. The revised and new chapters live in [`capitulos/`](capitulos/). The untouched original draft is in [`manuscrito/rascunho-original.md`](manuscrito/rascunho-original.md) (Portuguese).
 
 ---
 
@@ -177,21 +179,29 @@ Example in-app activities already designed: the **Life Onion** visualizer and **
 
 ```
 .
-├── README.md                 Original manuscript draft (Portuguese)
-├── README.en.md              This file (English overview)
-└── capitulos/
-    ├── 00-guia-de-sinergia.md                              Editorial guide: cycle, voices, motifs, fixes
-    ├── capitulo-00-prologo-e-introducao.md                 Revised Prologue and Introduction
-    ├── capitulo-01-quarta-feira-tutu-da-coragem.md         Ch. 1 (Wed) + Appendix 1, revised
-    ├── capitulo-02-o-sabor-do-bom-bauru.md                 Ch. 2 (Thu) + Appendix 2, new
-    ├── capitulo-03-sexta-feira-risoto-da-recompensa.md     Ch. 3 (Fri) + Appendix 3, new
-    ├── capitulo-04-sabado-macarronada-da-mama.md           Ch. 4 (Sat): outline, opening, Appendix 4
-    ├── capitulo-05-domingo-lasanha.md                      Ch. 5 (Sun): outline, opening, Appendix 5
-    ├── capitulo-06-segunda-feira-a-marmita.md              Ch. 6 (Mon): outline, opening, Appendix 6
-    └── capitulo-07-terca-feira-hamburguer-a-quatro-maos.md Ch. 7 (Tue) + Appendix 7, new
+├── README.md                       Overview in Portuguese
+├── README.en.md                    This file (English overview)
+├── manuscrito/
+│   └── rascunho-original.md        Original full draft, unchanged (Portuguese)
+├── docs/
+│   ├── guia-de-sinergia.md         Editorial guide: cycle, voices, motifs, fixes
+│   └── formato-e-estrutura.md      Page count, trim size, reading structure, file naming
+└── capitulos/                      Book content, in reading order
+    ├── 00-prologo-e-introducao.md  Revised Prologue and Introduction
+    ├── 01-quarta-tutu.md           Ch. 1 (Wed) + Appendix 1, revised
+    ├── 02-quinta-bauru.md          Ch. 2 (Thu) + Appendix 2, new
+    ├── 03-sexta-risoto.md          Ch. 3 (Fri) + Appendix 3, new
+    ├── 04-sabado-macarronada.md    Ch. 4 (Sat): outline, opening, Appendix 4
+    ├── 05-domingo-lasanha.md       Ch. 5 (Sun): outline, opening, Appendix 5
+    ├── 06-segunda-marmita.md       Ch. 6 (Mon): outline, opening, Appendix 6
+    └── 07-terca-hamburguer.md      Ch. 7 (Tue) + Appendix 7, new
 ```
 
-*(File and folder names stay in Portuguese, matching the manuscript. Each chapter file starts with an HTML comment listing what was changed or invented, for the author to review.)*
+**Naming rule:** `NN-day-dish.md` (two digits, lowercase, no accents, no articles). Alphabetical order is the book's reading order, so EPUB/PDF can be generated from the Markdown without an ordering sheet. Support files go in `docs/`.
+
+*(Names stay in Portuguese, matching the manuscript. Each chapter file starts with an HTML comment listing what was changed or invented, for the author to review.)*
+
+**Planned size:** about 40,000 words, roughly **208 pages at 14 × 21 cm** (13 printer signatures of 16 pages), about 250 g, and around 4.5 to 5 hours as an audiobook. Details in [`docs/formato-e-estrutura.md`](docs/formato-e-estrutura.md).
 
 ---
 

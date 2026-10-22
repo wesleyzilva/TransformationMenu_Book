@@ -1,6 +1,6 @@
 <!--
 REVISÃO DO CAPÍTULO 1 (Quarta-feira). NOTAS PARA O AUTOR (apague ao finalizar)
-O que foi mudado em relação ao original do README:
+O que foi mudado em relação ao original (manuscrito/rascunho-original.md):
 1. Português unificado no padrão brasileiro (o original misturava termos de Portugal: "subtil", "a cozinhar", "meu caro").
 2. A abertura foi enxugada e a pessoa que "sentenciava" na ponte (antes só "ela") agora é a Dona Valdete, para ligar com o Capítulo 2. SE NÃO FOR ASSIM NA SUA MEMÓRIA, troque.
 3. "bacon da coragem" virou "linguiça", para bater com a receita.

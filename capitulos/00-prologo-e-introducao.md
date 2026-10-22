@@ -1,6 +1,6 @@
 <!--
 REVISÃO DO PRÓLOGO E DA INTRODUÇÃO. NOTAS PARA O AUTOR (apague ao finalizar)
-O que foi mudado em relação ao original do README:
+O que foi mudado em relação ao original (manuscrito/rascunho-original.md):
 1. "Chef You" virou um trocadilho explícito (Chef Do / Chef You), em vez de parecer erro de digitação.
 2. "Temos 24 horas por dia e 365 dias por semana" estava errado (365 é por ano). Corrigido.
 3. A estatística de 26.000 pensamentos por dia aparece em muitos lugares, mas a fonte é frágil (estudos mais recentes falam em cerca de 6.000). Deixei marcado [CONFERIR FONTE]. Sugiro citar a fonte ou suavizar para "milhares de pensamentos por dia".
