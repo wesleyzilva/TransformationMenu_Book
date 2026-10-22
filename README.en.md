@@ -8,7 +8,9 @@
 **Original language:** Brazilian Portuguese (*Menu da Transformação*)
 **Status:** Work in progress (manuscript in revision)
 
-> This repository holds the manuscript of *Menu da Transformação*. The original draft is in [`README.md`](README.md) (Portuguese). The revised and new chapters live in [`capitulos/`](capitulos/).
+**Languages:** [Português](README.md) · English (this file)
+
+> This repository holds the manuscript of *Menu da Transformação*. The revised and new chapters live in [`capitulos/`](capitulos/). The untouched original draft is in [`manuscrito/rascunho-original.md`](manuscrito/rascunho-original.md) (Portuguese).
 
 ---
 
@@ -177,8 +179,10 @@ Example in-app activities already designed: the **Life Onion** visualizer and **
 
 ```
 .
-├── README.md                       Original manuscript draft (Portuguese)
+├── README.md                       Overview in Portuguese
 ├── README.en.md                    This file (English overview)
+├── manuscrito/
+│   └── rascunho-original.md        Original full draft, unchanged (Portuguese)
 ├── docs/
 │   ├── guia-de-sinergia.md         Editorial guide: cycle, voices, motifs, fixes
 │   └── formato-e-estrutura.md      Page count, trim size, reading structure, file naming

@@ -16,7 +16,7 @@ Documento de trabalho. Todas as projeções de páginas são **estimativas** fei
 | `05-domingo-lasanha.md` | ~1.000 | Só roteiro, abertura e Apêndice 5 |
 | `06-segunda-marmita.md` | ~1.000 | Só roteiro, abertura e Apêndice 6 |
 | `07-terca-hamburguer.md` | ~2.850 | Escrito, com Apêndice 7 |
-| Dedicatória e Agradecimentos (`README.md`) | ~1.250 | Original |
+| Dedicatória e Agradecimentos (`manuscrito/rascunho-original.md`) | ~1.250 | Original |
 | **Total hoje** | **~24.200 palavras** | Sem o guia editorial |
 
 ---

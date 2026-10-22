@@ -1,11 +1,11 @@
 <!--
 REVISÃO DO CAPÍTULO 5 (Domingo). STATUS: ROTEIRO + ABERTURA + APÊNDICE 5 REVISADO
-O README só trazia a abertura de um parágrafo, uma linha "(o texto do capítulo permanece o mesmo)" e o Apêndice 5. O corpo NÃO está no repositório, então não o inventei. Se você tiver o texto, cole e eu reviso.
+O rascunho original só trazia a abertura de um parágrafo, uma linha "(o texto do capítulo permanece o mesmo)" e o Apêndice 5. O corpo NÃO está no repositório, então não o inventei. Se você tiver o texto, cole e eu reviso.
 
 Decisões de revisão:
 - Divergência de nomes: Sumário = "Apêndice 5: A Metodologia do Bom Obreiro"; corpo = "A Camada da Honra". Unifiquei: "A Metodologia do Bom Obreiro (a Camada da Honra)".
-- No final do README havia anotações soltas ("A constância molda o coração, silencia a alma e afina os ouvidos para a voz do Espírito.", "Quando coloco no papel, transformo impressão em memória.", "Coração ensinável"). Elas parecem a semente do capítulo e do Mantra Final. Usei as três aqui, no fecho, e sugiro que "Coração ensinável" seja o título do Mantra Final. Mude se não for essa a sua intenção.
-- O trecho "Pa e pg sobre a vida" no README parecia lembrete solto e não foi incluído.
+- No final do rascunho original havia anotações soltas ("A constância molda o coração, silencia a alma e afina os ouvidos para a voz do Espírito.", "Quando coloco no papel, transformo impressão em memória.", "Coração ensinável"). Elas parecem a semente do capítulo e do Mantra Final. Usei as três aqui, no fecho, e sugiro que "Coração ensinável" seja o título do Mantra Final. Mude se não for essa a sua intenção.
+- O trecho "Pa e pg sobre a vida" no rascunho original parecia lembrete solto e não foi incluído.
 - 2 Timóteo 2:15 na versão Almeida Revista e Atualizada. Confira.
 -->
 
