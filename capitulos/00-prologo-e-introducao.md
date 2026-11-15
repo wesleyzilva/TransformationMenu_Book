@@ -8,6 +8,8 @@ O que foi mudado em relação ao original (manuscrito/rascunho-original.md):
 5. Nova seção 3 ("Cada dia tem uma voz"): justifica por que a Quinta é acolhedora, a Sexta é de boteco e a Terça é comercial. Isso evita que o leitor ache que o livro "mudou de autor" no meio.
 6. A Seção 3 original (Capítulos Diários) agora traz a estrutura fixa de cada dia, para que todos os capítulos tenham a mesma espinha.
 7. Texto de ecossistema (YouTube e app) enxugado. Mantive o convite à crítica.
+ALINHAMENTO (novo Apêndice 1 e IAí Chef): a tabela do ciclo agora cita o "IAágua" como ferramenta da Quarta, e a descrição do app ganhou uma frase sobre a IAí Chef. A gamificação (pontos, níveis, badges) foi mantida; se o app deixar de gamificar, ajustar esta seção e a espinha dos capítulos.
+RECONSTRUÇÃO de 15/11/2026 (foco adulto 30–45): Prólogo ganhou a cicatriz na primeira página (Pato Branco), três linhas sobre quem é o Chef Do, a explicação do "Do" ("Chef do que der": sugestão minha, troque se a origem for outra) e a seção "Para quem é este livro", no tom dos sub-segmentos. O @ saiu. A Introdução foi cortada quase pela metade: a Bancada virou um parágrafo, as seções 4 a 6 viraram uma, a estatística dos pensamentos saiu, a promessa de música saiu, "Quinta narrada pela minha mãe" foi corrigida, "para toda a nação" saiu, o "por que Quarta" entrou. O app não é mais assumido: tudo se faz no caderno; a IAí Chef aparece como o que está sendo construído.
 -->
 
 # Prólogo
@@ -18,9 +20,11 @@ O que foi mudado em relação ao original (manuscrito/rascunho-original.md):
 
 ---
 
-## Bem-vind@, comilõezinh@ dos dilemas da vida!
+## Bem-vindo, bem-vinda, comilões e comilonas dos dilemas da vida!
 
-*Estou aqui apenas reescrevendo e traduzindo o óbvio e já vivido para o meu tempo, para o tempo que estou vivendo.*
+*Estou aqui apenas reescrevendo o óbvio, já vivido, para o tempo em que vivo.*
+
+Há pouco tempo, minha mulher e eu chegamos a uma cidade do interior do Paraná sem apartamento alugado, sem móveis e com um colchão inflável. Foi a melhor semana do nosso casamento. Eu conto essa história na Quinta-feira. Conto agora porque você precisa saber de cara de onde este livro vem: **ele foi escrito no meio da travessia, não depois dela.** Eu não cheguei. Estou atravessando, igual a você.
 
 Se este livro está nas suas mãos (ou na tela, que é mais a cara do Chef Do), é sinal de que a cozinha mental pode estar meio bagunçada. Panelas de preocupação borbulhando, temperos de ansiedade espalhados, aquele cheiro de "algo queimado" que ninguém sabe de onde vem.
 
@@ -30,11 +34,27 @@ Por quatro décadas, quem aqui escreve andou pelos corredores dessa grande despe
 
 Mas... e se toda essa confusão pudesse virar um banquete?
 
-Cada tropeço, ditado antigo, playlist nostálgica e meme motivacional pode ser um tempero secreto. O **Chef Do** (o nome que você pode me chamar, porque é como me apresento a todos) passou três anos na bancada da vida testando receitas de rotina, apimentando dilemas, queimando expectativas e, olha só, descobriu que o segredo não está na fórmula pronta, mas na **arte de cozinhar com o que se tem.**
+Cada tropeço, ditado antigo, playlist nostálgica e meme motivacional pode ser um tempero secreto.
 
-Este livro **não é um manual de sucesso.** É um caderno de receitas emocionais e de cultivo à fé. Um mapa de sabores, sensações e reflexões para transformar cada dia da semana em um prato único, com sustância e intenção. Aqui tem espaço para insights que valem mais que ouro, provérbios que fazem pensar (muito!), músicas para refletir no meio do caos e provocações que servem de tempero para a alma. Tem também silêncio, pausa e escolhas. Porque a cozinha da vida exige atenção, mas também criatividade, adaptação e carinho.
+Quem está falando com você é o **Chef Do**, que é como eu me apresento a todos. Tenho quarenta anos, dois filhos, uma esposa que critica com carinho, um emprego em tecnologia e uma cozinha onde quase tudo deste livro aconteceu. (Do de *do*, fazer em inglês: o chef que pega a receita e faz. Em português parece que faltou palavra, eu sei. Chef do quê? Chef do que der. Pensando bem, é o nome mais honesto que eu podia ter.) Passei três anos na bancada da vida testando receitas de rotina, apimentando dilemas, queimando expectativas e, olha só, descobri que o segredo não está na fórmula pronta, mas na **arte de cozinhar com o que se tem.**
+
+Este livro **não é um manual de sucesso.** É um caderno de receitas emocionais e de cultivo à fé. Um mapa de sabores, sensações e reflexões para transformar cada dia da semana em um prato único, com sustância e intenção. Aqui tem espaço para insights que valem mais que ouro, provérbios que fazem pensar (muito!) e provocações que servem de tempero para a alma. Tem também silêncio, pausa e escolhas. Porque a cozinha da vida exige atenção, mas também criatividade, adaptação e carinho.
 
 Quem embarcar nessa leitura vai receber um convite sincero: vestir o avental passado do autoconhecimento, botar a mão na massa da rotina e descobrir que, com os ingredientes certos, até o **Chef You** (sim, você!) pode preparar uma vida mais gostosa.
+
+## Para quem é este livro
+
+Para a mulher que serve a mesa inteira e esqueceu de sentar.
+
+Para o homem que acha que livro assim é papo de coach, e que vai ler este escondido, começando pela Sexta.
+
+Para quem tem fé e cansou de sermão. E para quem não tem e não quer ser convertido: Deus aparece aqui como aparece na cozinha da minha mãe, sem pedir licença e sem cobrar nada.
+
+Para quem tem filhos e vive de marmita. E para quem não tem e acha que, por isso, o livro não é seu: Pato Branco foi coisa de casal.
+
+Para quem vive em dois endereços, ou num só que parece dois.
+
+E para quem, como eu, está no meio de alguma coisa e não sabe se atravessa.
 
 Então abre essa despensa interna, mexe com coragem esses ingredientes meio esquecidos no fundo da gaveta... e **bora cozinhar a própria história, sem medo de errar o ponto.**
 
@@ -54,12 +74,7 @@ O resultado é a metodologia que apelidei, com carinho, de **Culinária da Trans
 
 A vida nos apresenta um buffet gigantesco, com opções que parecem deliciosas, mas podem dar uma indigestão danada. A arte é saber o que colocar na panela e quando a receita está no ponto. É aqui que entra o **propósito**: o tempero secreto que impede a cozinha de virar um caos. Construir esse propósito é um processo de descoberta que pode ser tão prazeroso quanto assar um pão caseiro e sentir o aroma invadir o lar.
 
-Alguns números para nos situar:
-
-- Calcula-se que o ser humano tenha dezenas de milhares de pensamentos por dia. *[CONFERIR FONTE: o número de 26.000 é muito citado, mas pouco sustentado.]*
-- Temos 24 horas por dia, 7 dias por semana, 365 dias por ano.
-
-A conta não fecha, e é por isso que a gente precisa **escolher** no que investe a atenção. Como diz o Evangelho:
+A gente não consegue dar atenção a tudo. Então precisa **escolher** para onde a atenção vai. Como diz o Evangelho:
 
 > *"A boca fala do que está cheio o coração."*
 > — Lucas 6:45
@@ -70,15 +85,9 @@ Imagine, por um instante, você acordando sem o peso da semana, com a mente limp
 
 ---
 
-## 2. Sua Bancada de Chef: Metodologias, Frameworks e Ferramentas
+## 2. Três Palavras Que Vão Aparecer
 
-Ninguém cozinha um banquete de mãos vazias. Para executar as receitas de vida deste menu, vamos equipar a sua bancada. É fundamental entender a diferença entre os utensílios que você vai usar.
-
-- **Metodologia (a sua filosofia culinária).** É a sua crença, o "porquê" de cozinhar de um certo jeito. A **Metodologia Ágil**, que permeia este livro, é a filosofia de ser flexível: adaptar-se aos ingredientes que você tem na geladeira hoje, em vez de seguir um plano rígido. É responder às mudanças com criatividade.
-- **Framework (a sua receita estruturada).** Se a metodologia é a filosofia, o framework é a receita: um passo a passo. O **Scrum**, por exemplo, seria a receita para "planejar a marmita da semana" (planejar, cozinhar, revisar). O **Kanban** organiza o fluxo das comandas. O **Kaizen** é focado na melhoria contínua, como aprimorar um pouquinho o tempero do risoto toda vez que o faz.
-- **Ferramenta (os seus utensílios).** São as coisas concretas do dia a dia. A **Técnica Pomodoro** é o timer de cozinha: foco por 25 minutos e uma pausa. **PDCA** (Planejar, Fazer, Checar, Agir) e **OKR** (Objetivos e Resultados-Chave) são outros utensílios poderosos para garantir que os pratos saiam como planejado.
-
-Neste menu, vamos desmistificar esses conceitos. Eles são seus novos aliados na cozinha da vida, projetados para simplificar processos, otimizar o seu tempo e deixar as suas ações mais eficientes e, claro, **mais saborosas.**
+Ao longo do livro você vai esbarrar em três palavras de cozinha de gestão: **metodologia** (a filosofia, o porquê de cozinhar de um certo jeito, como a Metodologia Ágil, que é se adaptar ao que tem na geladeira hoje), **framework** (a receita, o passo a passo, como o Scrum ou o Kanban) e **ferramenta** (o utensílio do dia a dia, como o timer de 25 minutos da Técnica Pomodoro). Não decore. Cada apêndice explica o que é na hora de usar. E, quando eu misturar os nomes, me perdoe: na cozinha de casa, o que importa é que o prato saia.
 
 ---
 
@@ -86,11 +95,11 @@ Neste menu, vamos desmistificar esses conceitos. Eles são seus novos aliados na
 
 Imagine cada dia da semana como um capítulo. Em cada um, o Menu da Transformação oferece uma **sugestão do chef**: uma receita culinária que harmoniza com um insight profundo. É a prova de que, com o que temos em mãos, podemos criar maravilhas. Uma simples marmita de segunda, feita com criatividade, pode virar a sua primeira lição de agilidade, com Scrum para otimizar recursos e Pomodoro para manter o foco no preparo.
 
-A semana deste livro **começa na Quarta-feira**, a ponte, e termina na Terça, quando o ciclo se fecha e recomeça. É um ciclo, não uma linha reta:
+A semana deste livro **começa na Quarta-feira** e termina na Terça. Não é erro de impressão. Ela começa no meio porque é no meio que a gente pega um livro assim: no meio de uma semana, no meio de uma mudança, no meio de alguma coisa que ainda não acabou. A Quarta é a ponte. É um ciclo, não uma linha reta:
 
 | Dia | O prato | O verbo | A ferramenta (apêndice) |
 |---|---|---|---|
-| **Quarta** | Tutu à Mineira | Começar | A Metodologia da Perseverança |
+| **Quarta** | Tutu à Mineira | Começar | IAágua: o Algoritmo da Sede |
 | **Quinta** | Bauru de Frango | Escolher | O Framework do Foco Divino |
 | **Sexta** | Risoto de Cogumelos | Celebrar | A Ferramenta do Propósito |
 | **Sábado** | Macarronada da Mama | Pacificar | A Ferramenta do Lar Tranquilo |
@@ -98,51 +107,35 @@ A semana deste livro **começa na Quarta-feira**, a ponte, e termina na Terça, 
 | **Segunda** | A Marmita | Organizar | O Framework da Ordem |
 | **Terça** | Hambúrguer a Quatro Mãos | Unir | A Metodologia do Companheiro de Cozinha |
 
-**Atenção a um detalhe importante:** cada dia tem a sua própria voz. A Quinta é acolhedora, narrada pela minha mãe, de casa de avó e café coado. A Sexta é de boteco, com a língua mais solta, porque sexta-feira tem fome de recompensa e fome de recompensa não fala bonito. A Terça é comercial, de proposta de valor e entrega, porque é o dia de pensar em parcerias. Isso não é inconsistência, é **tempero.** Semana de verdade também muda de humor, e este livro quer se parecer com a vida.
+**Atenção a um detalhe importante:** cada dia tem a sua própria voz. A Quinta é acolhedora, de cozinha de mãe e café coado. A Sexta é de boteco, com a língua mais solta, porque sexta-feira tem fome de recompensa e fome de recompensa não fala bonito. A Terça é comercial, de proposta de valor e entrega, porque é o dia de pensar em parcerias. Isso não é inconsistência, é **tempero.** Semana de verdade também muda de humor, e este livro quer se parecer com a vida.
 
 **A espinha de cada capítulo é a mesma:**
 
 1. Uma abertura para entrar no clima do dia
 2. A receita, com ingredientes que carregam significado
-3. Uma conversa na cozinha (com pessoas que me inspiram)
+3. Uma conversa na cozinha (com a minha família e os meus amigos)
 4. Uma pausa e uma respiração
-5. Um desafio e uma atividade no aplicativo
+5. Um desafio, no caderno ou com a IAí Chef
 6. Provocações para o coração
 7. Um apêndice com a ferramenta, o framework ou a metodologia do dia
 8. Uma ponte para o próximo prato
 
 ---
 
-## 4. Mindfulness e Respiração: A Verdadeira Comunhão
+## 4. O Que Mais Vem em Cada Capítulo
 
-Em meio ao ritmo frenético da vida, é fácil queimar a receita e perder o controle. Por isso, cada capítulo traz uma **Pausa e Respiração** para cultivar a atenção plena. São exercícios simples, mas poderosos, para acalmar a mente, ancorar você no presente e permitir decisões mais conscientes e equilibradas. É o momento essencial de "degustar a identidade" antes de servir o prato principal da vida.
-
----
-
-## 5. Sabedoria Atemporal: O Tempero da Vovó em Nova Roupagem
-
-Vamos resgatar a essência dos ditados populares, dando a eles uma roupagem nova e revelando a relevância deles para os desafios de hoje. Você vai ver como "em casa de ferreiro, o espeto é de pau" ainda ecoa na sua vida pessoal e profissional, ou como "quem não tem cão, caça com gato" vira inspiração de criatividade na gestão de recursos.
-
-Cada capítulo ainda vem enriquecido com provérbios atemporais, uma pitada das palavras mais sábias que existem e uma sugestão musical para embalar a jornada. Afinal, a vida merece uma trilha sonora épica, não é mesmo?
+Uma **Pausa e Respiração**, porque é fácil queimar a receita no ritmo em que a gente vive: exercícios simples para acalmar a mente e ancorar no presente antes de servir o prato do dia. Um **ditado do interior**, quando ele couber, com roupagem nova. E uma **conversa na cozinha** com quem tempera a minha vida de verdade: minha mãe, minha mulher, meus filhos, meus amigos de bancada. Não há palestrante convidado. Há gente de avental.
 
 ---
 
-## 6. Conversas na Cozinha: Um Bate-Papo Sem Censura
-
-Você não estará sozinho nesta jornada. Ao longo das páginas, eu, o Chef Do, vou ter um bate-papo franco e inspirador com as pessoas que mais me inspiram e temperam a nossa vida, como amigos ou até inimigos. Em alguns momentos elas trazem as suas próprias perspectivas, dúvidas, pitadas de humor e, às vezes, uma pergunta que te provoca a pensar antes de "servir a resposta".
-
-Em alguns capítulos, quem conduz a conversa é a minha mãe. Em outros, são meus amigos de bancada. É como se estivéssemos todos juntos na cozinha, preparando uma refeição e discutindo os grandes temperos da existência.
-
----
-
-## 7. Um Ecossistema Completo Para a Sua Transformação
+## 5. Um Ecossistema Para a Sua Transformação
 
 Este livro é o coração de um ecossistema que se expande para além das páginas:
 
 - **Canal do YouTube "Menu da Transformação".** Aqui as ideias e receitas ganham vida em vídeo: demonstrações práticas, discussões aprofundadas sobre as metodologias e muito bom humor. É onde a cozinha inusitada se mostra na prática, com o Chef Do aprontando e ensinando com paixão.
-- **Aplicativo "Be Chef for Do".** Seu companheiro diário na gamificação da jornada. Ele também ajuda a entender conceitos básicos de educação financeira, escondidinhos nos ingredientes. O app transforma os conceitos do livro em desafios interativos, com pontos, níveis, *badges* de mestre-cuca e recompensas. O objetivo final é que, por meio de pequenas atividades diárias, a sua rotina seja tomada pelo propósito, de forma quase imperceptível, como um novo sabor que se integra à sua receita favorita.
+- **IAí Chef.** Uma inteligência artificial que estamos construindo enquanto este livro é escrito. A ideia é simples: ela não dá respostas; faz as perguntas certas, lembra do que você escreveu na quarta e cobra com carinho na sexta, e ajuda a cozinhar com o que tem na geladeira, literalmente. Tudo o que o livro pede você faz no caderno. Quando a IAí Chef estiver na sua mão, ela faz as perguntas por você.
 
-A minha expectativa é clara: gerar um **banquete de críticas e debates.** Aceito todos os temperos! Quero que me encham de perguntas, me mostrem as brechas na receita e apontem as falhas no preparo. Meu maior desejo é que cada brasileiro pense por si e que, com as ferramentas certas e o propósito à mesa, construa um futuro grandioso e saboroso para si, para a família e para toda a nação.
+A minha expectativa é clara: gerar um **banquete de críticas e debates.** Aceito todos os temperos! Quero que me encham de perguntas, me mostrem as brechas na receita e apontem as falhas no preparo. Meu maior desejo é que você pense por si e que, com as ferramentas certas e o propósito à mesa, construa um futuro saboroso para si e para a sua família.
 
 Prepare-se para uma jornada de autodescoberta, ação e para **temperar a sua vida com a maestria e o bom humor de um verdadeiro Chef Do!**
 

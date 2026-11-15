@@ -1,8 +1,10 @@
 <!--
 NOTAS PARA REVISÃO DO AUTOR (apague ao finalizar)
-- Tom deste capítulo: "vulgar" no sentido de boteco, povão, boca suja de sexta à noite, em contraste proposital com um prato chique. Palavrões pesados aparecem com asterisco; os leves (porra, merda, bosta) estão por extenso. Dá para subir ou descer o volume trocando as palavras marcadas. Procure por "porra", "merda", "bosta" e "f*deu".
+- Tom deste capítulo: "vulgar" no sentido de boteco, povão, boca suja de sexta à noite, em contraste proposital com um prato chique. Depois da reconstrução de 15/11, restam três "porra" no texto (epígrafe, respiração e fecho) e nenhum palavrão pesado. Para subir o volume, veja a lista na nota de reconstrução abaixo.
 - Cenas e falas do francês chato, de Fabio Peixe, de Aziz Nanico Indiano e da Daiana são INVENTADAS a partir do que o livro já diz sobre eles (agradecimentos e relato do capítulo da Quarta). Ajuste, ou peça a autorização deles antes de publicar.
 - Eclesiastes 9:7 e Colossenses 3:23 na versão Almeida Revista e Atualizada. Confira com a versão do livro.
+- ALINHAMENTO COM O NOVO APÊNDICE 1: o Apêndice 1 agora é o "IAágua" (a água como ingrediente invisível). Dois retornos da Sexta foram ajustados: nos cogumelos ("Lembra do Apêndice 1?") e no risoto ("Perseverança, lembra?"). Ambos agora retomam a água. A frase da perseverança foi para o Apêndice 6.
+- RECONSTRUÇÃO de 15/11/2026 (foco adulto; comprador "Dona Cida" do publico-alvo.md): o humor de boteco ficou inteiro, o volume de palavrão caiu para o que dá para dar de presente. Ficaram dois "porra" (a respiração "Sextou, porra. Obrigado, Senhor" e o fecho "Hoje é sexta, porra"); saíram "filho da puta", "tomar no c*", "f*di", "caralh*", "seus safados", "merda" (títulos e tabela). O aviso à sua mãe mudou de "pula" para "pode ler, só segura a colher de pau", igual ao fim da Quinta. O fecho agora marca que a cena do sofá é MEMÓRIA (casa grande, antes de Pato Branco) e fecha com os dois endereços. A seção do app não assume o app. Se você preferir subir o volume de novo, cada troca está nesta lista.
 -->
 
 # Capítulo 3
@@ -22,9 +24,9 @@ NOTAS PARA REVISÃO DO AUTOR (apague ao finalizar)
 
 **ATENÇÃO:** este capítulo foi escrito numa sexta-feira, às sete da noite, depois de uma semana que me deu vontade de jogar a panela na parede.
 
-A linguagem aqui é de **boteco**. Vai ter palavrão, vai ter piada ruim, vai ter metáfora que a minha tia revisora vai riscar de vermelho. Eu sei. Eu avisei.
+A linguagem aqui é de **boteco**. Vai escapar um palavrão, vai ter piada ruim, vai ter metáfora que a minha tia revisora vai riscar de vermelho. Eu sei. Eu avisei.
 
-Se você é a Dona Valdete, minha mãe: **mãe, pula pro capítulo anterior, ele é seu.** Eu te amo, a senhora me ensinou tudo que presta, e este capítulo foi escrito pelo outro lado de mim, aquele que a senhora fingiu nunca ter visto.
+Se você é a Dona Valdete, minha mãe: **mãe, a senhora pode ler. Só segura a colher de pau.** Eu te amo, a senhora me ensinou tudo que presta, e este capítulo foi escrito pelo outro lado de mim, aquele que a senhora fingiu nunca ter visto.
 
 Se você é qualquer outra pessoa: **bem-vindo ao lado B do Chef Do.**
 
@@ -38,11 +40,11 @@ Bora?
 
 ---
 
-## 1. Sextou, e a merda do cérebro não desliga
+## 1. Sextou, e o cérebro não desliga
 
 Vamos ser sinceros: ninguém chega na sexta inteiro.
 
-Na quarta você atravessou a ponte com um tutu na mão e aquela coragem toda. Na quinta você sentou na mesa da minha mãe, comeu um Bauru de frango e fez as pazes com o rosbife que não tinha. Lindo. Emocionante. Mandou até mensagem pra sua mãe.
+Na quarta você atravessou a ponte com um tutu na mão e aquela coragem toda. Na quinta você sentou na mesa da minha mãe, comeu um Bauru de frango, fez as pazes com o rosbife que não tinha e até achou bonito um colchão inflável. Lindo. Emocionante. Mandou até mensagem pra sua mãe.
 
 Aí chega a sexta e a realidade bate na porta com um chinelo na mão:
 
@@ -53,13 +55,13 @@ Aí chega a sexta e a realidade bate na porta com um chinelo na mão:
 
 E aí vem a tentação. Eu conheço bem, porque ela mora no meu celular, com ícone vermelho e entrega em quarenta minutos:
 
-> **"Pede uma pizza, porra. Você merece. Joga o avental pro alto e se joga no sofá."**
+> **"Pede uma pizza. Você merece. Joga o avental pro alto e se joga no sofá."**
 
 E olha, gente, **não tem nada de errado nisso.** Eu mesmo já pedi pizza numa sexta e senti zero culpa, e dormi em cima do controle remoto como um rei.
 
 O problema é quando a pizza vira o *único* jeito que você conhece de comemorar. Quando a única recompensa da sua semana é a que chega mais rápida, vem em caixa e some em vinte minutos. É delicioso, só que dura o mesmo que um *story* no Instagram. Você come, passa, e domingo à noite a ansiedade volta e te pergunta: *"E aí? Valeu a pena a semana?"*
 
-Existe outro tipo de recompensa. Aquela que **a gente prepara.** Que dá trabalho, que exige paciência, que cheira bem na casa inteira e que, quando chega na mesa, tem gosto de "**eu fiz essa porra e ficou f*da.**"
+Existe outro tipo de recompensa. Aquela que **a gente prepara.** Que dá trabalho, que exige paciência, que cheira bem na casa inteira e que, quando chega na mesa, tem gosto de "**eu fiz isso aqui, e ficou bom pra caramba.**"
 
 Essa recompensa tem nome: **risoto.**
 
@@ -83,7 +85,7 @@ Ele me olhou como quem olha pra um cachorro tentando usar talher e respondeu, le
 
 — ***A diferença é a atenção.***
 
-E saiu. Deixou eu lá, com o arroz grudando no fundo da panela, me sentindo uma merda.
+E saiu. Deixou eu lá, com o arroz grudando no fundo da panela, me sentindo um lixo.
 
 Mas o filho da mãe tinha razão.
 
@@ -112,7 +114,7 @@ Pensa comigo. Se a resposta for:
 - *"Pro meu chefe"* → o cansaço bate às 15h.
 - *"Pra pagar as contas"* → você vira escravo do boleto.
 - *"Pra provar pra aquele fulano que eu consigo"* → você vive a vida inteira numa briga com um cara que nem lembra de você.
-- *"Pra mim mesmo"* → melhor, mas ainda cansa, porque o ego é um patrão filho da puta: nunca está satisfeito.
+- *"Pra mim mesmo"* → melhor, mas ainda cansa, porque o ego é um patrão que nunca está satisfeito.
 
 Agora lê de novo o versículo do começo:
 
@@ -120,7 +122,7 @@ Agora lê de novo o versículo do começo:
 
 **Como para o Senhor.**
 
-Quando eu mexo o risoto *como para o Senhor*, a panela deixa de ser obrigação e vira **oferta.** Aquilo que era "trabalho de merda" vira ato de adoração. Mexer o arroz com cuidado, limpar a bancada sem reclamar, fazer o relatório que ninguém vai ler com o capricho de quem entrega pra alguém que **lê tudo**.
+Quando eu mexo o risoto *como para o Senhor*, a panela deixa de ser obrigação e vira **oferta.** Aquilo que era "trabalho chato" vira ato de adoração. Mexer o arroz com cuidado, limpar a bancada sem reclamar, fazer o relatório que ninguém vai ler com o capricho de quem entrega pra alguém que **lê tudo**.
 
 E repara que isso não tem nada de beato, tá? Não é "fingir que está feliz". É uma mudança de **endereço da entrega.** Você continua fazendo exatamente a mesma coisa, só que o destinatário mudou. E, curiosamente, quando o destinatário é Deus, o resultado costuma sair melhor. Porque ninguém quer entregar um risoto grudado pro Criador do universo.
 
@@ -136,7 +138,7 @@ E repara que isso não tem nada de beato, tá? Não é "fingir que está feliz".
 
 - **300 g de arroz arbóreo (ou carnaroli).** *A sua semana.* É o grão base. E uma regra de ouro: **não lava!** Se você lavar o arroz, joga fora o amido que vai virar o creme. A lição é: não lava os dias que você viveu. O que parecia sujeira é justamente o que vai dar cremosidade ao final.
 - **1 litro de caldo de legumes ou frango, quente, numa panela do lado, em fogo baixo.** *Os seus recursos.* Fé, família, amigos, dinheiro, sono. E lembra: se você joga caldo frio, o risoto trava. Se você chega na sexta sem recurso nenhum, sem sono, sem fé, sem ninguém, a semana não cozinha. Mantenha o caldo quentinho.
-- **300 g de cogumelos (metade paris, metade shimeji).** *O que cresceu no escuro.* Cogumelo cresce onde ninguém vê. É o esforço invisível da sua semana: a ligação difícil que você fez, o e-mail que você respondeu com educação mesmo querendo mandar o cara tomar no c*, a paciência que você teve com seu filho. Lembra do Apêndice 1? *A perseverança é algo que você faz e não vê.* Pois é: aqui ela vira ingrediente.
+- **300 g de cogumelos (metade paris, metade shimeji).** *O que cresceu no escuro.* Cogumelo cresce onde ninguém vê. É o esforço invisível da sua semana: a ligação difícil que você fez, o e-mail que você respondeu com educação mesmo querendo mandar o cara pastar, a paciência que você teve com seu filho. Lembra da água do Apêndice 1, aquele ingrediente que ninguém vê e sem o qual nada cozinha? Pois é: o esforço invisível é a água da sua semana, e aqui ele vira ingrediente.
 - **1 cebola pequena e 2 dentes de alho.** *Os fundamentos.* A cebola de novo, porque cebola é o Chef Do em forma de legume: tem camada, faz chorar e todo prato bom começa com ela.
 - **2 colheres (sopa) de azeite e 1 colher de manteiga.** *A energia.* O que faz as coisas escorregarem.
 - **150 ml de vinho branco seco.** *A celebração.* O vinho entra em duas partes: **um pouco na panela, o resto no copo do cozinheiro.** Quem cozinha merece. (Dai, essa é pra você, degustadora oficial de todas as minhas tentativas.)
@@ -146,10 +148,10 @@ E repara que isso não tem nada de beato, tá? Não é "fingir que está feliz".
 **O modo de preparo (com palavrão e tudo):**
 
 **1. Arruma a bagunça antes. (Mise en place, que é como o francês chique chama.)**
-Pica a cebola, o alho, fatia o cogumelo, rala o queijo, mede o vinho, deixa o caldo quentinho. Eu já f*di um risoto por querer picar cebola com o arroz já tostando. *Primeiro o preparo, depois a pressa.*
+Pica a cebola, o alho, fatia o cogumelo, rala o queijo, mede o vinho, deixa o caldo quentinho. Eu já estraguei um risoto por querer picar cebola com o arroz já tostando. *Primeiro o preparo, depois a pressa.*
 
 **2. Doura os cogumelos separados, em fogo alto, sem mexer demais.**
-Frigideira bem quente, um fio de azeite, cogumelo em uma camada só. Deixa dourar, porra. Se mexer toda hora, ele solta água e cozinha em vez de dourar, e vira borracha. Reserva. *Esse dourado é a sua semana mostrando que, apesar do caos, teve coisa boa.*
+Frigideira bem quente, um fio de azeite, cogumelo em uma camada só. Deixa dourar. Se mexer toda hora, ele solta água e cozinha em vez de dourar, e vira borracha. Reserva. *Esse dourado é a sua semana mostrando que, apesar do caos, teve coisa boa.*
 
 **3. Na panela do risoto, refoga a cebola e o alho no azeite com a manteiga.**
 Fogo médio, até ficar translúcido. Sem queimar. Sentiu o cheiro? Parabéns, a casa agora é um restaurante.
@@ -161,10 +163,10 @@ O grão tem que ficar meio transparente nas bordas e fazer um barulhinho de chia
 Fssss. Cheiro bom? Agora você é oficialmente um chique de Cotia.
 
 **6. Coloca o caldo quente, concha por concha. Mexe. Espera absorver. Outra concha.**
-Aqui está o coração da coisa, uns **18 a 20 minutos** de panela. Fica ali, na frente do fogão, com o celular virado de bruços. **É a meditação mais cara do mundo e o único jeito que funciona.** Quando você acha que acabou o caldo e o arroz ainda está duro, **calma**, porra. Confia no processo. (Perseverança, lembra?)
+Aqui está o coração da coisa, uns **18 a 20 minutos** de panela. Fica ali, na frente do fogão, com o celular virado de bruços. **É a meditação mais cara do mundo e o único jeito que funciona.** Quando você acha que acabou o caldo e o arroz ainda está duro, **calma.** Confia no processo. (A água, lembra? Concha por concha, ninguém vê, mas é ela que cozinha.)
 
 **7. Prova o grão. Tem que estar macio por fora e com um "mordidinha" no meio. Isso é o *al dente*.**
-Se tiver cru, mais uma concha. Se tiver mole, f*deu, serve rápido e finge que era de propósito.
+Se tiver cru, mais uma concha. Se tiver mole, paciência: serve rápido e finge que era de propósito.
 
 **8. Volta com os cogumelos, apaga o fogo, e joga a manteiga gelada e o parmesão. Mexe forte. Tampa. Deixa 2 minutos.**
 Essa é a *mantecatura*, a palavra italiana pra "o momento em que o risoto fica bonito". É aqui que a recompensa chega. **Dois minutinhos de descanso**, que é a sua sexta à noite com a tampa fechada: ninguém mexe, ninguém atrapalha, ninguém pergunta "tá pronto?".
@@ -172,7 +174,7 @@ Essa é a *mantecatura*, a palavra italiana pra "o momento em que o risoto fica 
 **9. Serve num prato fundo, bate o fundo do prato na mesa de leve (pra ele fazer "onda"), e finaliza com salsinha, pimenta e as raspas de limão.**
 O risoto bom **escorre**, não fica parado feito cimento. Se escorrer, você ganhou a semana.
 
-**Dica do Chef Do:** coloca um som. Abre o vinho. Chama a Dai. Risoto bem feito, vinho branco gelado e uma mulher que sabe criticar com carinho: *vocês entenderam, né, seus safados?* A recompensa é isso.
+**Dica do Chef Do:** coloca um som. Abre o vinho. Chama a Dai. Risoto bem feito, vinho branco gelado e uma mulher que sabe criticar com carinho: *vocês entenderam.* A recompensa é isso.
 
 ---
 
@@ -180,7 +182,7 @@ O risoto bom **escorre**, não fica parado feito cimento. Se escorrer, você gan
 
 *Uma sexta qualquer. Eu no fogão. Fabio Peixe e Aziz Nanico Indiano na bancada, com cerveja, olhando pro meu risoto como quem olha pra um bicho esquisito. A Dai, de taça na mão, no sofá, acompanhando tudo.*
 
-**FABIO:** Mano, você tá mexendo essa porra há quinze minutos. Joga tudo de uma vez e acabou.
+**FABIO:** Mano, você tá mexendo esse negócio há quinze minutos. Joga tudo de uma vez e acabou.
 
 **EU:** Não pode, Fabio. Se jogar o caldo de uma vez, vira papa de bebê.
 
@@ -188,7 +190,7 @@ O risoto bom **escorre**, não fica parado feito cimento. Se escorrer, você gan
 
 **FABIO:** Esse livro seu é o quê, afinal? Autoajuda ou receita?
 
-**EU:** Os dois, caralh*. É receita de autoajuda. Ou autoajuda de receita. Escolhe.
+**EU:** Os dois, ué. É receita de autoajuda. Ou autoajuda de receita. Escolhe.
 
 **AZIZ:** Esse negócio de "recompensa" aí, que você escreveu... Eu acho que recompensa é sentar no sofá e não fazer nada.
 
@@ -210,18 +212,18 @@ O risoto bom **escorre**, não fica parado feito cimento. Se escorrer, você gan
 
 ---
 
-## 6. Recompensa de verdade versus recompensa de merda
+## 6. Recompensa de verdade versus recompensa de mentira
 
 Vamos fazer uma tabelinha, que o Chef Do gosta de tabelinha:
 
-| | **Recompensa de merda** | **Recompensa de verdade (o risoto)** |
+| | **Recompensa de mentira** | **Recompensa de verdade (o risoto)** |
 |---|---|---|
 | **Chegada** | Em 40 minutos, no celular | Em 40 minutos, na sua panela |
 | **Esforço** | Zero | Moderado e prazeroso |
 | **Duração do prazer** | 20 minutos | A noite toda, mais a memória |
 | **O que você sente depois** | Vazio e culpa | Orgulho e barriga quentinha |
 | **Quem compartilha** | Você e o app de série | Você e quem você ama |
-| **Gosto** | Bom | **Foda** |
+| **Gosto** | Bom | **De vitória** |
 
 Repare que **o tempo gasto é parecido.** A diferença é o que você faz *dentro* desse tempo: numa você espera; na outra você participa.
 
@@ -261,14 +263,14 @@ Faz comigo. Sem frescura.
 5. **Conte o que você fez durante a semana que mereceu o prêmio.** Sem modéstia. Fale de pelo menos *uma* vitória da semana, mesmo pequena.
 6. **Se der errado, rimos.** Risoto grudado é o novo "mexido à la Cozinheiro da Vida". Dê um nome pomposo e sirva assim mesmo.
 
-### No Aplicativo "Be Chef for Do": O Cardápio da Recompensa
+### No caderno (ou com a IAí Chef): O Cardápio da Recompensa
 
-Abra o app e faça o balanço da semana, no seu modo "Sexta":
+Faça o balanço da semana, no seu modo "Sexta". Se a IAí Chef estiver na sua mão, ela faz as perguntas; se não, o caderno serve igual:
 
 - **Cogumelos (o que cresceu no escuro):** Escreva 3 coisas que você fez e ninguém viu. Esforços invisíveis também contam pontos.
-- **Caldo (meus recursos):** Como está o seu nível de sono, fé, amigos e grana? O app mostra um "termômetro de caldo". Se estiver frio, o app sugere uma ação de reposição.
-- **Manteiga gelada (minha recompensa):** Escolha **uma** recompensa *preparada* para o fim de semana (não vale delivery). Marque como concluída depois de feita e ganhe o badge **"Risoto no Ponto"**.
-- **A Pergunta Secreta:** Para quem você cozinhou esta semana? O app guarda a resposta e te devolve na próxima sexta.
+- **Caldo (meus recursos):** Como está o seu nível de sono, fé, amigos e grana? Dê uma nota de 1 a 5 para cada um. Se algum estiver frio, escolha uma ação de reposição para o fim de semana.
+- **Manteiga gelada (minha recompensa):** Escolha **uma** recompensa *preparada* para o fim de semana (não vale delivery). Marque como concluída depois de feita.
+- **A Pergunta Secreta:** Para quem você cozinhou esta semana? Guarde a resposta e releia na próxima sexta.
 
 ---
 
@@ -320,11 +322,15 @@ O ato de mexer o risoto deixa de ser obrigação e vira oferta. O trabalho deixa
 
 ## Para Fechar a Sexta
 
-Eu já estou aqui, com a panela lavada, um dedo de vinho no copo e a casa cheirando a manteiga e parmesão. A Dai dormiu no sofá com a taça na mão (sobreviveu, a taça), o Heitor e o Samuel já foram pra cama depois de reclamarem que "risoto é arroz ruim", e a Mimi Bela e a Bolacha me olham de longe como quem pergunta: *"E o nosso?"*
+A sexta que eu vou te contar aconteceu na casa grande, antes de Pato Branco. Guardei inteira.
 
-E eu pensando: **foi uma boa semana.** Não perfeita. Mas boa, daquelas que você consegue olhar pra trás e dizer *"eu cozinhei isso aqui, e ficou f*da."*
+Eu estou aqui, com a panela lavada, um dedo de vinho no copo e a casa cheirando a manteiga e parmesão. A Dai dormiu no sofá com a taça na mão (sobreviveu, a taça), o Heitor e o Samuel já foram pra cama depois de reclamarem que "risoto é arroz ruim", e a Mimi Bela e a Bolacha me olham de longe como quem pergunta: *"E o nosso?"*
+
+E eu pensando: **foi uma boa semana.** Não perfeita. Mas boa, daquelas que você consegue olhar pra trás e dizer *"eu cozinhei isso aqui, e ficou bom demais."*
 
 A recompensa não veio de fora. Veio da panela, das mãos, do tempo, e do jeito como eu decidi cozinhar.
+
+Hoje a sexta tem dois endereços, e a recompensa é outra. Ainda estou aprendendo a cozinhar essa. Mas a pergunta continua a mesma: pra quem?
 
 O sábado está logo ali, e ele tem **cheiro de molho de tomate e barulho de família inteira.** Vai ter macarronada. Vai ter gritaria. Vai ter tio falando de política e criança correndo com o garfo na mão.
 

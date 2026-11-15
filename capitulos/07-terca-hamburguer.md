@@ -5,6 +5,7 @@ NOTAS PARA REVISÃO DO AUTOR (apague ao finalizar)
 - Todos os números de custo e preço são ILUSTRATIVOS. Substitua por valores reais da sua praça antes de publicar.
 - A história do app Be Chef for Do ("a seis mãos") usa só o que está nos Agradecimentos. Detalhes de rotina, divisão de papéis e conflitos são sugestões minhas.
 - Eclesiastes 4:9-10 e Provérbios 27:17 na versão Almeida Revista e Atualizada. Confira.
+- RECONSTRUÇÃO de 15/11/2026 (parecer-de-leitura.md, trava 7; publico-alvo.md): o capítulo ganhou uma CENA (seção 5: a brigada em ação, com a Dai, o Heitor e o Samuel num sábado de encontro). A cena é INVENÇÃO minha, andaime para a sua: os postos, o smash que grudou, a mostarda do Samuel, o pão frio e a frase da Dai ("nunca tinha comido isso nesta casa") precisam virar a história real; há um [PREENCHER] no começo dela. O "Resumo Executivo" saiu do topo e virou "Para Quem Tem Pressa", antes do apêndice. Das seis tabelas do corpo, ficou uma (os postos); as outras viraram listas ou uma frase. "Estudo de caso" virou "a noite em que a IAí Chef nasceu", com um [PREENCHER] para a conversa real com o Fabio e o Aziz. O app deixou de ser assumido ("no caderno ou com a IAí Chef", sem badge). O ditado "sozinho você vai rápido" agora é apresentado como ditado. O fecho aponta para a Conclusão nova ("Ainda na Ponte").
 -->
 
 # Capítulo 7
@@ -14,23 +15,6 @@ NOTAS PARA REVISÃO DO AUTOR (apague ao finalizar)
 
 > "Melhor é serem dois do que um, porque têm melhor paga do seu trabalho. Porque, se um cair, o outro levanta o seu companheiro."
 > — Eclesiastes 4:9-10
-
----
-
-## Resumo Executivo
-
-Para quem tem pouco tempo (e quem tem tempo, hoje em dia?), aqui vai o capítulo em 30 segundos:
-
-| | |
-|---|---|
-| **O prato** | Hambúrguer smash: 5 ingredientes, 4 pessoas, 20 minutos |
-| **O problema** | Você está tentando fazer tudo sozinho e entregando menos do que poderia |
-| **A solução** | Dividir a cozinha: cada um no seu posto, todos no mesmo objetivo |
-| **A ferramenta** | O **Quadro da Brigada** e o **Contrato de Cozinha** (Apêndice 7) |
-| **O resultado** | Mais entrega, menos desgaste, relações mais fortes e a jornada fechando o ciclo |
-| **Tempo de leitura** | 15 minutos. Tempo de aplicação: a partir de hoje |
-
-Agora, vamos aos detalhes.
 
 ---
 
@@ -57,42 +41,40 @@ Pensa no seu dia. Você é, ao mesmo tempo:
 
 Na Quarta-feira eu te fiz uma pergunta: *"Será que consigo cozinhar sozinho?"* A resposta honesta era **"sim, consegue."** Mas faltou terminar a frase:
 
-> **Sozinho você vai rápido. Acompanhado você vai longe.**
+> **Como diz o ditado: sozinho você vai rápido; acompanhado, você vai longe.**
 
 E Terça-feira é o dia de aprender a ir longe.
 
 ---
 
-## 2. A Proposta de Valor: Por Que Esta Terça Importa
+## 2. Por Que Esta Terça Fecha o Ciclo
 
 Chegamos ao último prato da semana, e é por isso que ele é decisivo. O Menu da Transformação nunca foi uma linha reta; é um **ciclo**:
 
-| Dia | Verbo | O que você fez |
-|---|---|---|
-| **Quarta** | **Começar** | Atravessou a ponte e cozinhou com o que tem |
-| **Quinta** | **Escolher** | Priorizou o essencial (menos, porém melhor) |
-| **Sexta** | **Celebrar** | Preparou a recompensa e entregou como oferta |
-| **Sábado** | **Pacificar** | Cuidou do clima antes do prato |
-| **Domingo** | **Aprimorar** | Repetiu até virar maestria |
-| **Segunda** | **Organizar** | Colocou a casa em ordem |
-| **Terça** | **Unir** | Chamou companhia para ir mais longe |
+- **Quarta, começar:** você atravessou a ponte e cozinhou com o que tinha.
+- **Quinta, escolher:** priorizou o essencial (menos, porém melhor).
+- **Sexta, celebrar:** preparou a recompensa e entregou como oferta.
+- **Sábado, pacificar:** cuidou do clima antes do prato.
+- **Domingo, aprimorar:** repetiu até virar maestria.
+- **Segunda, organizar:** colocou a casa em ordem.
+- **Terça, unir:** chamou companhia para ir mais longe.
 
 Repare no desenho: **a Terça fecha o ciclo e abre a próxima Quarta.** Quando você chama alguém para cozinhar junto, a travessia da ponte deixa de ser um ato solitário de coragem e passa a ser um caminho dividido. É por isso que, na semana seguinte, atravessar a ponte é mais fácil.
 
-Em linguagem de negócios: **a parceria é o que escala a transformação.**
+A parceria é o que faz a transformação **durar.**
 
 ---
 
-## 3. O Estudo de Caso: Como Nasceu o Be Chef for Do
+## 3. A Noite em Que a IAí Chef Nasceu
 
-Vou contar uma história de bastidores, porque este capítulo é sobre resultados reais.
+Vou contar uma história de bastidores, porque este capítulo é sobre coisas que só aconteceram porque alguém não estava sozinho.
 
-O aplicativo **Be Chef for Do**, que você vem usando ao longo deste livro, **não nasceu de um plano de negócios.** Nasceu de uma conversa de madrugada, com os meus amigos **Fabio Peixe** e **Aziz Nanico Indiano**, entre desafios e risadas. Três pessoas, seis mãos.
+A **IAí Chef**, a inteligência que eu venho citando ao longo deste livro e que ainda está sendo construída, **não nasceu de um plano de negócios.** Nasceu de uma conversa de madrugada, com os meus amigos **Fabio Peixe** e **Aziz Nanico Indiano**, entre desafios e risadas. Três pessoas, seis mãos. [PREENCHER: onde foi, que horas eram, quem disse o quê. Essa cena é sua e ainda não está aqui.]
 
 Se você olhasse aquela mesa de fora, veria três caras sem estrutura nenhuma: sem investidor, sem equipe, sem prazo. E, mesmo assim, **três coisas aconteceram que explicam por que o projeto saiu do papel:**
 
 **1. Cada um trouxe um ingrediente diferente.**
-Nenhum de nós era igual ao outro. Isso parece um problema, mas é exatamente a **vantagem competitiva** de qualquer parceria. Se os três fossem iguais, teríamos três vezes a mesma ideia e as mesmas lacunas. Sendo diferentes, cada um cobria o ponto cego do outro.
+Nenhum de nós era igual ao outro. Isso parece um problema, mas é exatamente a vantagem de qualquer parceria. Se os três fossem iguais, teríamos três vezes a mesma ideia e as mesmas lacunas. Sendo diferentes, cada um cobria o ponto cego do outro.
 
 **2. Ninguém precisava estar certo o tempo todo.**
 A gente discutia. Muito. Mas a regra silenciosa era: *"a melhor ideia ganha, não a mais barulhenta."* Isso economizou meses de ego.
@@ -102,50 +84,94 @@ Ninguém queria "ser o dono do app". Queríamos que a ideia funcionasse na vida 
 
 **Resultado:** um produto que nenhum de nós conseguiria fazer sozinho, com a velocidade e a qualidade que fizemos juntos.
 
-**Lição de negócios:** *parceria não é soma, é multiplicação. Um mais um, bem combinados, não dá dois: dá o que nenhum dos dois teria alcançado.*
+**A lição:** *parceria não é soma, é multiplicação. Um mais um, bem combinados, não dá dois: dá o que nenhum dos dois teria alcançado.*
 
 ---
 
-## 4. O Produto: Hambúrguer Smash a Quatro Mãos
+## 4. A Receita: Hambúrguer Smash a Quatro Mãos
 
-Todo bom capítulo precisa de um produto. O nosso é um prato de **alto giro e baixo custo**, perfeito para ser feito em equipe, e que você encontra desde a hamburgueria da esquina até a cozinha da sua casa num domingo à noite.
+O prato de hoje é barato, rápido e perfeito para ser feito em equipe: o mesmo que você encontra na hamburgueria da esquina e na cozinha da sua casa num sábado à noite.
 
-Por que o hambúrguer? Por três motivos estratégicos:
+Por que o hambúrguer? Por três motivos:
 
-1. **Cardápio enxuto vende mais.** Lembra do *Weniger, aber besser*, "menos, porém melhor", lá da Quinta? As hamburguerias que mais crescem têm poucos itens, muito bem feitos. Foco é vantagem competitiva.
+1. **Cardápio enxuto vende mais.** Lembra do *Weniger, aber besser*, "menos, porém melhor", lá da Quinta? As hamburguerias que mais crescem têm poucos itens, muito bem feitos. Foco vende, e alimenta.
 2. **Divisão natural de tarefas.** Cada etapa do hambúrguer tem um dono claro. Dá para praticar a brigada em 20 minutos.
 3. **Resultado imediato.** Em pouco tempo você tem o produto pronto na mão do "cliente" (que pode ser seu filho, seu parceiro ou você mesmo depois de um dia ruim).
 
-### Ficha Técnica: Hambúrguer Smash da Brigada
+### Ingredientes, e o que cada um carrega
 
-*(rende 4 hambúrgueres; valores ilustrativos)*
+*(rende 4 hambúrgueres)*
 
-| Ingrediente | Quantidade | Função no negócio | Função na vida |
-|---|---|---|---|
-| **Carne moída (80% carne, 20% gordura)** | 500 g, em 4 bolinhas de 125 g | **Produto-base** | O seu trabalho: a entrega central |
-| **Pão de hambúrguer (tipo brioche)** | 4 unidades | **Embalagem e experiência** | Como você se apresenta ao mundo |
-| **Queijo (prato ou cheddar)** | 4 fatias | **Diferencial** | O que une e derrete as arestas |
-| **Cebola em fatias finas** | 1 pequena | **Qualidade percebida** | O detalhe que o cliente nota sem saber por quê |
-| **Molho da casa** | 4 colheres de sopa | **Marca registrada** | A sua identidade |
-| **Sal, manteiga para os pães** | a gosto | **Acabamento** | O capricho final |
+- **500 g de carne moída (80% carne, 20% gordura), em 4 bolinhas de 125 g.** *O seu trabalho:* a entrega central. Sem ela, não há prato.
+- **4 pães de hambúrguer (tipo brioche).** *Como você se apresenta ao mundo.* O pão frio estraga o melhor recheio (eu aprendi, e você vai ver).
+- **4 fatias de queijo (prato ou cheddar).** *O que une e derrete as arestas.*
+- **1 cebola pequena em fatias finas.** *O detalhe que o outro nota sem saber por quê.*
+- **4 colheres (sopa) de molho da casa.** *A sua identidade:* o que ninguém mais tem.
+- **Sal e manteiga para os pães.** *O capricho final.*
 
 **Molho da casa (a sua "marca"):** 3 colheres de maionese, 1 de ketchup, 1 colher de chá de mostarda, 1 colher de picles picado e uma pitada de páprica. Misture. Pronto: um molho que ninguém mais tem, porque é **o seu.**
 
-### Análise de Custo (simplificada e ilustrativa)
-
-| Item | Valor aproximado por unidade |
-|---|---|
-| Custo total de ingredientes | R$ 9,00 |
-| Preço de venda numa hamburgueria | R$ 28,00 |
-| **Margem bruta** | **R$ 19,00 (cerca de 68%)** |
-
-O que isso significa na sua vida? **Que o valor percebido de uma coisa bem feita, com cuidado e em equipe, é muito maior que o custo de fazê-la.** Isso vale para hambúrguer, vale para atendimento, vale para um relacionamento: o que você investe com atenção volta multiplicado.
+Uma conta rápida, para quem gosta de número: o hambúrguer que custa uns R$ 9 em ingredientes sai por quase R$ 30 numa hamburgueria. A diferença não é só margem. É o valor de algo bem feito, com cuidado e em equipe. Isso vale para lanche, para atendimento e para relacionamento: **o que você investe com atenção volta multiplicado.** *(Valores ilustrativos; troque pelos da sua cidade.)*
 
 ---
 
-## 5. A Operação: O Quadro da Brigada em Ação
+## 5. A Cena: Quatro Pessoas, Uma Chapa, Vinte Minutos
 
-Agora, o coração do capítulo. Reúna **quatro pessoas** (ou três, ou duas: em casa, quem sabe, serão os filhos, a(o) parceira(o), uma visita). Cada uma assume um **posto:**
+Teoria é bonita. Deixa eu te contar o dia em que ela quase queimou.
+
+Foi num sábado em que a gente estava, enfim, todo mundo na mesma cozinha: eu, a Dai, o Heitor e o Samuel. [PREENCHER: onde e quando foi esse encontro de verdade.] Eu tinha prometido hambúrguer e tinha planejado tudo sozinho, como sempre: a carne, o molho, os pães, a chapa. Na minha cabeça, eu era o chef, e os outros eram a plateia.
+
+Aí a Dai olhou a bancada e fez a pergunta que ela faz quando quer derrubar um castelo com uma palavra:
+
+— "E a gente faz o quê?"
+
+Eu ia responder "nada, senta aí". Não respondi. Lembrei da Quarta, da pergunta inteira: *será que consigo cozinhar sozinho?* Conseguia. Mas estava prestes a fazer quatro hambúrgueres para quatro pessoas enquanto as quatro pessoas me olhavam. Eu era chef, gerente, comprador, atendente e faxineiro, e às onze da noite seria o crítico.
+
+— "Vocês fazem tudo. Eu só monto."
+
+Dois minutos de alinhamento, de pé, em volta da bancada. Objetivo: quatro hambúrgueres quentes, saindo ao mesmo tempo, em vinte minutos. O Heitor na chapa (chapeiro). O Samuel no molho e na cebola (molheiro). A Dai na expedição, que é quem serve, prova e fala a verdade (expedidor). Eu nos pães e na montagem (montador).
+
+— "Por que eu fico com o molho?" (Samuel)
+
+— "Porque sem o molho não tem hambúrguer, e ninguém vê quem fez." (eu)
+
+— "Então é o pior posto."
+
+— "É o posto do cara que segura o show. Pergunta pra qualquer cozinha."
+
+Ele pensou. Pegou a colher.
+
+O primeiro smash do Heitor grudou na chapa. Ele olhou para mim com cara de quem ia pedir para trocar de posto. Eu tive que segurar a mão para não pegar a espátula: o reflexo de quem faz tudo sozinho é tomar a tarefa de volta no primeiro erro. Em vez disso:
+
+— "Chapa mais quente. Amassa de uma vez e não mexe mais."
+
+O segundo saiu com crosta. O terceiro, perfeito. No quarto, ele já estava dando instrução para o irmão: "molho, rápido, que esse aqui tá saindo."
+
+Enquanto isso, o Samuel tinha colocado mostarda demais no molho e resolvido sozinho, com mais maionese. Ninguém pediu. Ele provou, achou forte, consertou. Eu só vi depois, e não disse nada, que é a coisa mais difícil que um pai aprende a não dizer.
+
+Aos dezoito minutos, quatro hambúrgueres saíram juntos, quentes, na mesa. A Dai, no posto dela, deu a primeira mordida, mastigou com a seriedade de um júri e fez a pergunta que fecha qualquer ciclo:
+
+— "Como ficou? O que vocês mudariam?"
+
+— "O pão tá frio." (Heitor, direto, olhando para mim)
+
+Tinha razão. Eu, o montador, o único posto que eu guardei para mim, tinha tostado os pães cedo demais. O erro do dia era meu.
+
+— "Eu mudaria o pão." (eu)
+
+— "Eu mudaria a mostarda." (Samuel, que já tinha mudado)
+
+— "Eu não mudaria nada." (Dai) "Comi um hambúrguer que quatro pessoas fizeram. Nunca tinha comido isso nesta casa."
+
+Repara no que aconteceu em vinte minutos. Um errou e aprendeu na segunda tentativa. Outro consertou sozinho o que ninguém viu. A terceira deu o retorno que ninguém queria ouvir, e o único que estava fazendo tudo sozinho uma semana antes foi exatamente quem errou. Não porque eu cozinho mal. Porque **quem faz tudo sozinho não tem quem avise que o pão esfriou.**
+
+E a frase que a Dai disse, "nunca tinha comido isso nesta casa", eu guardei. Não era sobre o hambúrguer. Era sobre uma casa em que, durante anos, um só cozinhou para todos, e os outros comeram em silêncio. A brigada não melhorou o lanche. Melhorou a mesa.
+
+---
+
+## 6. A Operação: O Quadro da Brigada em Ação
+
+Agora, a receita do que você acabou de ler. Reúna **quatro pessoas** (ou três, ou duas: em casa, quem sabe, serão os filhos, a(o) parceira(o), uma visita). Cada uma assume um **posto:**
 
 | Posto | Função na cozinha | O que ele ensina na vida |
 |---|---|---|
@@ -178,24 +204,22 @@ Esse é o **feedback**. E o feedback, como todo empresário sabe, é de graça e
 
 ### Entrega: Resultados Esperados
 
-Quatro hambúrgueres. Vinte minutos. Quatro pessoas que, de uma forma ou de outra, **construíram juntas algo que cada uma, sozinha, levaria quarenta minutos e muito mais estresse para fazer.**
+Quatro hambúrgueres. Vinte minutos. Quatro pessoas que **construíram juntas algo que cada uma, sozinha, levaria quarenta minutos e muito mais estresse para fazer.**
 
-E o mais importante: **todo mundo comeu com a sensação de que "isso é nosso".** E esse sentimento, meus amigos, nenhum delivery entrega.
+E o mais importante: **todo mundo comeu com a sensação de que "isso é nosso".** A Dai disse melhor: "nunca tinha comido isso nesta casa". Esse sentimento nenhum delivery entrega.
 
 ---
 
-## 6. Gestão de Riscos: Onde as Parcerias Dão Errado
+## 7. Onde as Parcerias Dão Errado
 
-Para ser honesto (e todo bom pitch precisa de honestidade), parceria também dá errado. Eu já vi, já vivi, e já errei. Os quatro riscos mais comuns são:
+Para ser honesto, parceria também dá errado. Eu já vi, já vivi e já errei. Os quatro riscos mais comuns:
 
-| Risco | Como aparece | Como mitigar |
-|---|---|---|
-| **Papéis confusos** | "Eu achei que você ia fazer isso." | Combinar os postos antes de acender o fogo |
-| **Ego acima do objetivo** | Discussão sobre quem tem razão, e não sobre o que funciona | Voltar sempre ao objetivo comum |
-| **Falta de feedback** | O incômodo vira ressentimento | Criar um momento fixo para conversar (veja o Apêndice 7) |
-| **Sobrecarga** | Um faz por três e ninguém percebe | Revisar a divisão toda semana |
+- **Papéis confusos.** "Eu achei que você ia fazer isso." *Remédio:* combinar os postos antes de acender o fogo.
+- **Ego acima do objetivo.** A discussão vira sobre quem tem razão, não sobre o que funciona. *Remédio:* voltar sempre ao objetivo comum.
+- **Falta de retorno.** O incômodo vira ressentimento. *Remédio:* um momento fixo para conversar (veja o Apêndice 7).
+- **Sobrecarga.** Um faz por três e ninguém percebe. *Remédio:* revisar a divisão toda semana. (Eu era esse um. Perguntem ao pão frio.)
 
-A Bíblia, que é um excelente manual de gestão de pessoas, já avisava:
+A Bíblia, que entende de gente mais do que qualquer manual de gestão, já avisava:
 
 > *"Como o ferro com o ferro se afia, assim o homem afia o rosto do seu amigo."*
 > — Provérbios 27:17
@@ -204,9 +228,9 @@ Atrito produz brilho. Mas atrito sem cuidado produz faísca e incêndio. A difer
 
 ---
 
-## 7. O Fechamento de Contrato: A Semana Inteira em Retrospectiva
+## 8. A Semana Inteira em Retrospectiva
 
-Chegou a hora de fazer o que toda boa empresa faz no fim de um ciclo: **a retrospectiva.** (Quem trabalha com metodologia ágil conhece bem esse momento; aqui ele ganha tempero.)
+Chegou a hora de fazer o que toda boa cozinha faz no fim do serviço: **a retrospectiva.** (Quem trabalha com metodologia ágil conhece bem esse momento; aqui ele ganha tempero.)
 
 Olhe para os sete dias que você percorreu e responda:
 
@@ -220,7 +244,7 @@ Olhe para os sete dias que você percorreu e responda:
 
 ---
 
-## 8. Pausa e Respiração: A Respiração da Brigada
+## 9. Pausa e Respiração: A Respiração da Brigada
 
 Antes de agir, alinhe o corpo.
 
@@ -233,7 +257,7 @@ Antes de agir, alinhe o corpo.
 
 ---
 
-## 9. Plano de Ação: Seu Desafio Desta Terça
+## 10. Seu Desafio Desta Terça
 
 **Meta:** cozinhar o hambúrguer smash com pelo menos **duas pessoas** nesta semana, usando o Quadro da Brigada.
 
@@ -248,20 +272,20 @@ Antes de agir, alinhe o corpo.
 
 **Responsável:** você.
 
-### No Aplicativo "Be Chef for Do": O Quadro da Brigada
+### No caderno (ou com a IAí Chef): O Quadro da Brigada
 
-Abra o app e crie o seu **Quadro da Brigada**, o cadastro das pessoas que tornam a sua jornada possível:
+Monte o seu **Quadro da Brigada**, a lista das pessoas que tornam a sua jornada possível. Quatro linhas numa folha; a IAí Chef monta com você, quando estiver na sua mão:
 
 - **Meu Chapeiro:** quem me ajuda a executar? (Quem faz comigo, na prática?)
 - **Meu Molheiro:** quem me ajuda nos bastidores? (Quem prepara o terreno?)
 - **Meu Montador:** quem cuida da qualidade do que eu entrego? (Quem revisa, quem questiona?)
 - **Meu Expedidor:** quem me dá feedback sincero? (Quem fala o que eu preciso ouvir?)
 
-Ao final, o app sugere uma **ação de reconhecimento** para cada pessoa: uma mensagem, um café, um abraço. Você ganha o badge **"Brigada Completa"** ao registrar as quatro.
+Ao lado de cada nome, uma **ação de reconhecimento** para esta semana: uma mensagem, um café, um abraço. Depois, faça a ação. O quadro só vale preenchido e cumprido.
 
 ---
 
-## 10. Provocações Para a Sua Terça
+## 11. Provocações Para a Sua Terça
 
 1. **Em quais áreas da minha vida eu estou fazendo todas as funções?** O que eu poderia dividir?
 2. **Quem é o meu "ponto cego"?** Que pessoa enxerga o que eu não enxergo?
@@ -271,9 +295,26 @@ Ao final, o app sugere uma **ação de reconhecimento** para cada pessoa: uma me
 
 ---
 
+## Para Quem Tem Pressa
+
+Se você pulou direto para cá (e quem tem tempo, hoje em dia?), o capítulo em 30 segundos:
+
+| | |
+|---|---|
+| **O prato** | Hambúrguer smash: 5 ingredientes, 4 pessoas, 20 minutos |
+| **O problema** | Você está tentando fazer tudo sozinho e entregando menos do que poderia |
+| **A solução** | Dividir a cozinha: cada um no seu posto, todos no mesmo objetivo |
+| **A ferramenta** | O **Quadro da Brigada** e o **Contrato de Cozinha** (Apêndice 7) |
+| **O resultado** | Mais entrega, menos desgaste, relações mais fortes e a jornada fechando o ciclo |
+| **Tempo de leitura** | 15 minutos. Tempo de aplicação: a partir de hoje |
+
+Agora volte e leia a cena. Ela vale os vinte minutos.
+
+---
+
 ## Apêndice 7: A Metodologia do Companheiro de Cozinha
 
-*(versão executiva)*
+*(a versão que cabe no bolso do avental)*
 
 **Objetivo:** estruturar parcerias (pessoais, familiares ou profissionais) para que durem, entreguem resultado e deixem as pessoas melhores.
 
@@ -334,7 +375,7 @@ Antes de fechar o livro (ou a tela, que é mais a cara do Chef Do), eu te peço 
 
 1. **Escolha uma pessoa** que merece ser chamada para a sua cozinha esta semana. Mande a mensagem agora.
 2. **Cozinhe algo com ela**, qualquer coisa, do hambúrguer ao ovo mexido. O prato é o pretexto.
-3. **Conte a sua experiência.** No canal **Menu da Transformação**, no aplicativo **Be Chef for Do** ou diretamente comigo. Eu quero saber o que funcionou, o que deu errado e o que ficou faltando. Aceito todos os temperos.
+3. **Conte a sua experiência.** No canal **Menu da Transformação**, com a IAí Chef quando ela chegar, ou diretamente comigo. Eu quero saber o que funcionou, o que deu errado e o que ficou faltando. Aceito todos os temperos.
 
 Porque, no fim das contas, a sua transformação não é um projeto individual. É um **banquete coletivo**, e o prato mais gostoso da mesa é o que a gente divide.
 
@@ -342,3 +383,5 @@ Porque, no fim das contas, a sua transformação não é um projeto individual. 
 > **E a Quarta-feira está chegando de novo.**
 
 **Vamos juntos?**
+
+Antes de fechar o livro, me dá mais duas páginas. Eu ainda estou na ponte.
